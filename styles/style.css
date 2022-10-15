@@ -245,7 +245,7 @@ font-style: 600;
 .feynman__image {
   position: absolute;
   height: 637px;
-  width: 867xp;
+  width: 867px;
   bottom: 0;
   left: 0;
 }
@@ -276,7 +276,7 @@ font-style: 600;
 }
 
 .table-theme-dark  {
-  margin: 0 auto 90px; 
+  margin: 0 auto 90px;
   z-index: 1;
 }
 
