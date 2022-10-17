@@ -286,11 +286,11 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-  color: #fff;;
+  color: #fff;
 }
 
 .table__text_theme_dark {
-  color: #fff;;
+  color: #fff;
 }
 
 .kaufman__image {
@@ -306,7 +306,7 @@
 .footer {
   min-height: 350px;
   background: #1f1f1f;
-  color: #fff;;
+  color: #fff;
   display: flex;
   justify-content: center;
 }
@@ -329,7 +329,7 @@
 }
 
 .logo_place_footer {
-  fill: #fff;;
+  fill: #fff;
 }
 
 .footer__author {
