@@ -6,5 +6,5 @@
   }
 
   .footer__author::before {
-    content: '\169';
+    content: "\00A9 ";
   }
