@@ -1,0 +1,17 @@
+.oakley {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f2f2;
+  position: relative;
+}
+
+.oakley::before {
+  content: "";
+  height: 60px;
+  background-color: #f2f2f2;
+  width: 100%;
+  position: absolute;
+  top: -60px;
+  z-index: -1;
+}

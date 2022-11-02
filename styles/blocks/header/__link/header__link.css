@@ -1,9 +1,0 @@
-  .header__link{
-    text-decoration: none;
-  }
-  
-  .header__link::after {
-    content: '\2192';
-  }
-
- 
