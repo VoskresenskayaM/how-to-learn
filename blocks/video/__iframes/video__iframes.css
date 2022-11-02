@@ -8,6 +8,10 @@
   margin-bottom: 0;
 }
 
+.video__iframes :first-child {
+    margin-right: 20px;
+}
+
 .video__iframes :last-child {
   margin-right: 0;
 }
